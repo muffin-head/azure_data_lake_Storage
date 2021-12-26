@@ -1,5 +1,5 @@
 on: [push]
-name: databrideployment
+name: adlsdeployment
 
 jobs:
   build-and-deploy:
